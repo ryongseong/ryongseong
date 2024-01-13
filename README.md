@@ -8,8 +8,8 @@
 	<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=Nest.js&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/npm-#CB3837?style=flat&logo=npm&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 	<br>
 </div>
 <div align=center>
