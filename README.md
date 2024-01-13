@@ -23,6 +23,7 @@
 <br>
 <div align=center>
   	<br>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple">
+<!--   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple"> -->
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong)](https://github.com/ryongseong/github-readme-stats)
   	<br>
 </div>
