@@ -1,5 +1,5 @@
 <div align=center> 
-  	<p> Studying </p>
+  	<h5> Studying </h5>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -13,7 +13,7 @@
 	<br>
 </div>
 <div align=center>
-	<p> Tools </p>
+	<h5> Tools </h5>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
