@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 <br>
-<div align=center>
+<div>
   	<br>
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple">
 	<a href="https://solved.ac/xmssnsk"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
