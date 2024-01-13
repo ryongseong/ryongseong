@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=dark" />
+	<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white" />
 	<br>
 </div>
 <div align=center>
