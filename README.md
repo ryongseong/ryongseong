@@ -23,6 +23,10 @@
 <br>
 <div>
   	<br>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&theme=midnight-purple">
-	<a href="https://solved.ac/xmssnsk"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
+	<div align="right">
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&theme=midnight-purple">
+	</div>
+	<div align="left">
+		<a href="https://solved.ac/xmssnsk"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
+	</div>
 </div>
