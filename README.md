@@ -12,7 +12,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=Nest.js&logoColor=white" />
+	<img src="[https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=Nest.js&logoColor=white](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)" />
 	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 	<img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
