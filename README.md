@@ -25,4 +25,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&theme=midnight-purple">
 	<a href="https://solved.ac/xmssnsk"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ryongseong=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryongseong&count_private=true)
