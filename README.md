@@ -1,5 +1,5 @@
 <div align=center> 
-  	<h3> What Can I do </h3>
+  	<h3> 🚀 Skills </h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -12,7 +12,7 @@
 <br>
 
 <div align=center>
-	<h3> Learning </h3>
+	<h3> 📚 Learning Skills </h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -21,7 +21,7 @@
 <br>
 
 <div align=center>
-	<h3> DataBase </h3>
+	<h3> ⚡ DataBase </h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
@@ -32,14 +32,16 @@
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple" />
-</div>
-<br>
-
-<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&theme=blue-green"/>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 </div>
 <br>
 
 <div align="center">
+	<h3> Social & Office </h3>
+</div>
+<div align="center">
 	<a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://www.instagram.com/ryong._.seong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+	<a href="https://nebulous-visor-f4e.notion.site/6084da86f40248f2bfaf2cea0911b065?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </div>
