@@ -1,22 +1,21 @@
 <div align=center> 
-  	<h3> Languages </h3>
+  	<h3> What Can I do </h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </div>
 <br>
 
 <div align=center>
-	<h3> Frameworks & Library </h3>
+	<h3> Learning </h3>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 <br>
 
