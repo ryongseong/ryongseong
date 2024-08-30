@@ -38,3 +38,8 @@
 <div align="center">
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 </div>
+<br>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
