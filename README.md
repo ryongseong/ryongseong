@@ -38,12 +38,7 @@
 </div>
 <div align="center">
 	<a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- 	<a href="https://nebulous-visor-f4e.notion.site/Portfolio-12e4db7ba7ba80b3bc26fad6d5dcb807?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> -->
-</div>
-<br>
-
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&show_icons=true&theme=dark" />
+ 	<a href="https://nebulous-visor-f4e.notion.site/Portfolio-12e4db7ba7ba80b3bc26fad6d5dcb807?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </div>
 <br>
 
