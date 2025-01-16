@@ -19,6 +19,7 @@
 	<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 <br>
 
@@ -29,6 +30,7 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 <br>
 
