@@ -2,11 +2,9 @@
   	<h3> 🚀 Skills </h3>
 </div>
 <div align=center>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 </div>
 <br>
