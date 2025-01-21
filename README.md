@@ -9,7 +9,6 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=Elasticsearch&amp;logoColor=white">
 </div>
 <br>
 
@@ -33,6 +32,7 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
  	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=Elasticsearch&amp;logoColor=white">
 </div>
 <br>
 
