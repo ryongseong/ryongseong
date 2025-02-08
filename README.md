@@ -48,5 +48,20 @@
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple" />
 	&nbsp;&nbsp;
+	<picture>
+	  <source
+	    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+	    media="(prefers-color-scheme: dark)"
+	  />
+	  <source
+	    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+	    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  />
+	  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+	</picture>
+</div>
+<br>
+
+<div align=center>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 </div>
