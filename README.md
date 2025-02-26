@@ -2,9 +2,6 @@
 	<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/xmssnsk" width="600" height="300"/></a>
 </div>
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ryongseong)](https://git.io/streak-stats)
-
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
 	&nbsp;&nbsp;
