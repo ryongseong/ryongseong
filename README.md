@@ -3,7 +3,7 @@
 </div>
 <br>
 
-[![ryongseong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryongseong&theme=dark)](https://github.com/ryongseong/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ryongseong&theme=dark)](https://git.io/streak-stats)
 
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
