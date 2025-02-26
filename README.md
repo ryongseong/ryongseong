@@ -11,9 +11,9 @@
 <br>
 
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple" />
 	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
 	&nbsp;&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=midnight-purple" />
 </div>
 <div align=center>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
