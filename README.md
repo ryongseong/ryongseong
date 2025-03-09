@@ -38,7 +38,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 <hr>
-<div align=center>
+<div align=center justify-content=space-between>
 	<img src="https://github-readme-stats.vercel.app/api?username=ryongseong&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="165"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=dark" />
 </div>
