@@ -3,13 +3,13 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=Elasticsearch&amp;logoColor=white" />
 </div>
 <br>
