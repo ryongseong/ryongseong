@@ -48,9 +48,9 @@
 </div>
 <br>
 <div align="center">
-	<h3> 👨‍💻 Social & Office </h3>
+	<h3> 👨‍💻 Social </h3>
 	<div align="center">
-		<a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+		<a href="https://www.instagram.com/ryong._.seong/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 	 	<a href="https://nebulous-visor-f4e.notion.site/Portfolio-6084da86f40248f2bfaf2cea0911b065"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 	</div>
 </div>
