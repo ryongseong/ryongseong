@@ -46,8 +46,8 @@
 <div align=center>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazandi.herokuapp.com/api?handle=xmssnsk&theme=dark"/></a>
+	<a href="https://www.acmicpc.net/user/xmssnsk"><img src="https://bojstat.vulcan.site/user/xmssnsk"/></a>
 </div>
-[![BOJ](https://bojstat.vulcan.site/user/xmssnsk)](https://www.acmicpc.net/user/xmssnsk)
 <br>
 <div align="center">
 	<h3> 👨‍💻 Social </h3>
