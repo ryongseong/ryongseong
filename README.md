@@ -46,7 +46,6 @@
 <div align=center>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazandi.herokuapp.com/api?handle=xmssnsk&theme=dark"/></a>
-	<a href="https://www.acmicpc.net/user/xmssnsk"><img src="https://bojstat.vulcan.site/user/xmssnsk"/></a>
 </div>
 <br>
 <div align="center">
