@@ -11,8 +11,8 @@
 	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=Elasticsearch&amp;logoColor=white" />
 </div>
 <br>
