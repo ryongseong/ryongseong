@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at <a href="https://nebulous-visor-f4e.notion.site/Portfolio-6084da86f40248f2bfaf2cea0911b065"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+- 👨‍💻 All of my projects are available at &nbsp; <a href="https://nebulous-visor-f4e.notion.site/Portfolio-6084da86f40248f2bfaf2cea0911b065"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
 - 📫 How to reach me **ryongseong.dev@gmail.com**
 
