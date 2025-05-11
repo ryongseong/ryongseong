@@ -3,14 +3,12 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryongseong&layout=compact&theme=dark" />
 </div>
 <br>
+<h3> PS </h3>
 <div align=center>
 	<a href="https://solved.ac/xmssnsk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
 </div>
 <br>
+<h3> Contact </h3>
 <div align="center">
-	<h3> 👨‍💻 Social </h3>
-	<div align="center">
-		<a href="https://www.instagram.com/ryong._.seong/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-	 	<a href="https://nebulous-visor-f4e.notion.site/Portfolio-6084da86f40248f2bfaf2cea0911b065"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-	</div>
+	<a href="https://nebulous-visor-f4e.notion.site/Portfolio-6084da86f40248f2bfaf2cea0911b065"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </div>
