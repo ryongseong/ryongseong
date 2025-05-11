@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seong-Ryong Lim</h1>
-<h3 align="center">A passionate BackEnd developer</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Profile%20views&color=0e75b6&style=flat" alt="ryongseong" /> </p>
 
