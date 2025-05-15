@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **ryongseong.dev@gmail.com**
 
-<div>
-  <a href="https://solved.ac/xmssnsk"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
-  <a href="https://github.com/ryongseong/github-stats">
-     <img src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
-  </a>
-</div>
+<a href="https://solved.ac/xmssnsk"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
+<a href="https://github.com/ryongseong/github-stats">
+   <img src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
+</a>
