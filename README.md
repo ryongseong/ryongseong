@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=flat" alt="ryongseong" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&theme=monokai" alt="ryongseong" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai" alt="ryongseong" /></a> </p>
 
 <div align='center'>
 <a href="https://solved.ac/xmssnsk"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
