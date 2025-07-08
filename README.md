@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seong-Ryong Lim</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Profile%20views&color=0e75b6&style=flat" alt="ryongseong" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Profile%20views&color=0e75b6&style=flat" alt="ryongseong" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&theme=monokai" alt="ryongseong" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&theme=monokai" alt="ryongseong" /></a> </p>
 
 - 🌱 I’m currently studying in SSAFY
 
