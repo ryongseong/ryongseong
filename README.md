@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **ryongseong.dev@gmail.com**
 
+<div>
 <a href="https://solved.ac/xmssnsk"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/></a>
+<img align='center' src="https://raw.githubusercontent.com/ryongseong/programmers-stats/main/output/result.svg"/> 
+</div>
 <br />
 <a href="https://github.com/ryongseong/github-stats">
    <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/overview.svg"/>
