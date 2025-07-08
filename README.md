@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ryongseong.dev@gmail.com**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome%20views&color=0e75b6&style=flat" alt="ryongseong" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=flat" alt="ryongseong" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience&theme=monokai" alt="ryongseong" /></a> </p>
 
