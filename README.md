@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at &nbsp; <a href="https://nebulous-visor-f4e.notion.site/Portfolio-1f44db7ba7ba8057a80fc07ec3b42c95?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
-- 📫 How to reach me **ryongseong.dev@gmail.com**
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=flat" alt="ryongseong" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai" alt="ryongseong" /></a> </p>
