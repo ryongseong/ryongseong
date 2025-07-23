@@ -13,7 +13,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
 </p>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
 
 <div align='center'>
    <a href="https://solved.ac/xmssnsk">
