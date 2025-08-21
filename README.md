@@ -35,6 +35,9 @@
    </a>
 </div>
 <br />
-<div>
-   ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ryongseong?theme=light&posts=3)
+
+<div align='center'>
+   <a href="https://velog.io/@ryongseong/posts">
+      <img align='center' src="https://velog-readme-stats.vercel.app/api/list?name=ryongseong" />
+   </a>
 </div>
