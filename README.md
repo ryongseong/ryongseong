@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seong-Ryong Lim</h1>
-<h3 align="center">A passionate FullStack developer</h3>
 
 - 🌱 I’m currently studying in SSAFY
 
