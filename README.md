@@ -23,10 +23,10 @@
       <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryongseong_dev&theme=dark"/>
    </a>
 </div>
-<br />
+<!-- <br />
 <div align='center'>
    <img align='center' src="https://raw.githubusercontent.com/ryongseong/programmers-stats/main/output/result.svg"/> 
-</div>
+</div> -->
 <br />
 <div align='center'>
    <a href="https://github.com/ryongseong/github-stats">
