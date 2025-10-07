@@ -14,7 +14,6 @@
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
 </p>
 <br />
-<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600"></p>
 
 <div align='center'>
    <a href="https://solved.ac/xmssnsk">
