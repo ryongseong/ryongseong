@@ -1,43 +1,61 @@
-<h1 align="center">Hi 👋, I'm Seong-Ryong Lim</h1>
-
-- 🌱 I’m currently studying in SSAFY
-
-- 👨‍💻 All of my projects are available at &nbsp; <a href="https://nebulous-visor-f4e.notion.site/Portfolio-1f44db7ba7ba8057a80fc07ec3b42c95?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-
-- Visit My [Site](https://ryongseong.im)
-
+<h1 align="center">Hi, I'm Seong-Ryong Lim 👋</h1>
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=for-the-badge" alt="ryongseong" />
 </div>
+
+- 🌱 I’m currently studying in SSAFY  
+- If you want to read my portfolio, go to this [site](https://ryongseong.im) (Modifying in progress)
 <br />
-<p align="center">
+<!-- <p align="center">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
 </p>
+<br /> -->
+<h3>🛠️ Skills</h3>
+<details>
+<summary>Programming languages</summary>
+<img src='https://skillicons.dev/icons?i=python,javascript,typescript'/>
+</details>
+<details>
+<summary>FrontEnd Development</summary>
+<img src='https://skillicons.dev/icons?i=react,vue,nextjs,svelte,sass,tailwind'/>
+</details>
+<details>
+<summary>BackEnd Development</summary>
+<img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,django'/>
+</details>
+<details>
+<summary>AI/ML</summary>
+<img src='https://skillicons.dev/icons?i=pytorch,tensorflow,opencv'/>
+</details>
+<details>
+<summary>Tools</summary>
+<img src='https://skillicons.dev/icons?i=git,github,gitlab,docker'/>
+</details>
+<details>
+<summary>Database</summary>
+<img src='https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,elasticsearch,sqlite'/>
+</details>
+<details>
+<summary>IDEs</summary>
+<img src='https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm'/>
+</details>
 <br />
-
-<div align='center'>
-   <a href="https://solved.ac/xmssnsk">
-      <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk&theme=dark"/>
-   </a>
-   <a href="https://solved.ac/ryongseong_dev">
-      <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryongseong_dev&theme=dark"/>
-   </a>
-</div>
-<!-- <br />
-<div align='center'>
-   <img align='center' src="https://raw.githubusercontent.com/ryongseong/programmers-stats/main/output/result.svg"/> 
-</div> -->
-<br />
+<h3>📜 Stats</h3>
 <div align='center'>
    <a href="https://github.com/ryongseong/github-stats">
-      <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/overview.svg"/>
-      <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
+      <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/overview.svg"/><img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
    </a>
 </div>
 <br />
-
 <div align='center'>
    <a href="https://velog.io/@ryongseong/posts">
       <img align='center' src="https://velog-readme-stats.vercel.app/api/list?name=ryongseong" />
    </a>
+</div>
+
+<h5>Connect</h5>
+<div>
+   <a href="mailto:ryongseong.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+   <a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+   <a href="https://www.instagram.com/ryong._.seong/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </div>
