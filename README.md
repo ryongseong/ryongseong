@@ -53,7 +53,7 @@
    </a>
 </div>
 
-<h5>Connect</h5>
+<h5>💬 Contact</h5>
 <div>
    <a href="mailto:ryongseong.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
    <a href="https://www.linkedin.com/in/seongryong-lim-962a0330a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
