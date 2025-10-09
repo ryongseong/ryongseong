@@ -3,7 +3,8 @@
    <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=for-the-badge" alt="ryongseong" />
 </div>
 
-- 🌱 I’m currently studying in SSAFY  
+- 🌱 I’m currently studying in SSAFY
+- I hope for a full-stack developer.
 - If you want to read my portfolio, go to this [site](https://ryongseong.im) (Modifying in progress)
 <br />
 <!-- <p align="center">
