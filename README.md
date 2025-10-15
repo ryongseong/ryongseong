@@ -18,7 +18,7 @@
 </details>
 <details>
 <summary>FrontEnd Development</summary>
-<img src='https://skillicons.dev/icons?i=react,vue,nextjs,svelte,sass,tailwind'/>
+<img src='https://skillicons.dev/icons?i=react,vue,nextjs,svelte,sass,tailwind,yarn'/>
 </details>
 <details>
 <summary>BackEnd Development</summary>
@@ -30,7 +30,7 @@
 </details>
 <details>
 <summary>Tools</summary>
-<img src='https://skillicons.dev/icons?i=git,github,gitlab,docker'/>
+<img src='https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,notion'/>
 </details>
 <details>
 <summary>Database</summary>
