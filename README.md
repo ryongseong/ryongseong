@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying in SSAFY
 - I hope for a full-stack developer.
-- If you want to read my portfolio, go to this [site](https://ryongseong.im) (Modifying in progress)
+- If you want to read my portfolio, go to this [site](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95).
 <br />
 <!-- <p align="center">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
