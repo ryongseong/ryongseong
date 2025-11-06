@@ -7,6 +7,10 @@
 - I hope for a full-stack developer.
 - If you want to read my portfolio, go to this [site](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95).
 <br />
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/464362863427846146?simple=true)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/464362863427846146)
+
 <!-- <p align="center">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
 </p>
