@@ -31,37 +31,43 @@
 - [Next.js 활용 포트폴리오](https://ryongseong.im) (수정중)
 
 <br />
-
 <h3>🛠️ Skills</h3>
 <details>
 <summary>Programming languages</summary>
 <img src='https://skillicons.dev/icons?i=python,javascript,typescript'/>
 </details>
 <details>
+
 <summary>FrontEnd Development</summary>
 <img src='https://skillicons.dev/icons?i=react,vue,nextjs,svelte,sass,tailwind,yarn'/>
 </details>
 <details>
+
 <summary>BackEnd Development</summary>
 <img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,django'/>
 </details>
 <details>
+
 <summary>AI/ML</summary>
 <img src='https://skillicons.dev/icons?i=pytorch,tensorflow,opencv'/>
 </details>
 <details>
+
 <summary>Tools</summary>
 <img src='https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,notion'/>
 </details>
 <details>
+
 <summary>Database</summary>
 <img src='https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,elasticsearch,sqlite'/>
 </details>
 <details>
+
 <summary>IDEs</summary>
 <img src='https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm'/>
 </details>
 <br />
+
 <h3>📜 Stats</h3>
 <div align='center'>
    <a href="https://github.com/ryongseong/github-stats">
@@ -69,12 +75,6 @@
    </a>
 </div>
 <br />
-<div align='center'>
-   <a href="https://velog.io/@ryongseong/posts">
-      <img align='center' src="https://velog-readme-stats.vercel.app/api/list?name=ryongseong" />
-   </a>
-</div>
-
 <h3>💬 Contact</h3>
 <div>
    <a href="mailto:ryongseong.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
