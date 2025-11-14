@@ -3,18 +3,34 @@
    <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=for-the-badge" alt="ryongseong" />
 </div>
 
-- 🌱 I’m currently studying in SSAFY
-- I hope for a full-stack developer.
-- If you want to read my portfolio, go to this [site](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95).
+### 🏃‍♂️ Experience
+- **창업동아리 인사이트** 부원: `2023.03 ~ 2024.08`
+   - 파이썬 스터디장, 코테 스터디 진행
+- **동의대학교 인공지능그랜드ICT연구센터 학부연구생**: `2023.07 ~ 2024.08`
+- **주식회사 크리스틴컴퍼니** 인턴
+     - (백엔드 개발 및 데이터 수집/관리): `2024.09 ~ 2024.12` 
+- **삼성청년소프트웨어AI아카데미(SSAFY)** 13기: `2025.01 ~`
+
+### 🏆 Award
+- 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
+- SSAFY 코딩집중과정 종합성정 우수상: `2025.05`
+- SSAFY 관통프로젝트 최우수상: `2025.05` [github](https://github.com/MergeBank)
+- SSAFY 특화프로젝트 최우수상: `2025.10` [github](https://github.com/On-Wear-SSAFY-13)
+
+### 📜 Paper
+- [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine(Jin-Woo Ryu,  Chan-Young Kwon,  Jea-Seong Park,  Seong-Ryong Lim,  Hye-Li Jeon,  Hui-Jun Kim, and Sung-Hee Kim)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
+   - 동의신경정신과학회지, 2저자
+
+### 🏅 Certifications
+- DSAC(데이터사이언티스트능력인증자격) 2급: `2023.12`
+- SQLD(SQL 개발자): `2025.06`
+
+### 🙋‍♂️ 포트폴리오
+- [Next.js 활용 포트폴리오](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95) (수정중)
+- [Velog](https://velog.io/@ryongseong/posts)
+
 <br />
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/464362863427846146?simple=true)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/464362863427846146)
-
-<!-- <p align="center">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryongseong&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers&theme=monokai&margin-w=15&no-bg=true&no-frame=true" alt="ryongseong" />
-</p>
-<br /> -->
 <h3>🛠️ Skills</h3>
 <details>
 <summary>Programming languages</summary>
