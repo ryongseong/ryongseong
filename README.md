@@ -25,7 +25,7 @@
 - DSAC(데이터사이언티스트능력인증자격) 2급: `2023.12`
 - SQLD(SQL 개발자): `2025.06`
 
-### 🙋‍♂️ 포트폴리오
+### 🙋‍♂️ Portfolio
 - [Notion](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95) 
 - [Velog](https://velog.io/@ryongseong/posts)
 - [Next.js 활용 포트폴리오](https://ryongseong.im) (수정중)
