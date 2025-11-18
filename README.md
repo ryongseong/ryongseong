@@ -54,7 +54,7 @@
 <details>
 
 <summary>Tools</summary>
-<img src='https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,notion'/>
+<img src='https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,notion,obsidian'/>
 </details>
 <details>
 
@@ -66,6 +66,12 @@
 <summary>IDEs</summary>
 <img src='https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm'/>
 </details>
+
+<details>
+<summary>OS</summary>
+<img src='https://skillicons.dev/icons?i=windows,linux,ubuntu'/>
+</details>
+
 <br />
 
 <h3>📜 Stats</h3>
