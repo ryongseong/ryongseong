@@ -16,6 +16,7 @@
 - SSAFY 코딩집중과정 종합성적 우수상: `2025.05`
 - SSAFY 관통프로젝트 최우수상: `2025.05` [github](https://github.com/MergeBank)
 - SSAFY 특화프로젝트 최우수상: `2025.10` [github](https://github.com/On-Wear-SSAFY-13)
+- SSAFY 자율프로젝트 최우수상
 
 ### 📜 Paper
 - [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine(Jin-Woo Ryu,  Chan-Young Kwon,  Jea-Seong Park,  Seong-Ryong Lim,  Hye-Li Jeon,  Hui-Jun Kim, and Sung-Hee Kim)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
