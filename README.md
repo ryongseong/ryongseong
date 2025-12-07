@@ -35,7 +35,7 @@
 <h3>🛠️ Skills</h3>
 <details>
 <summary>Programming languages</summary>
-<img src='https://skillicons.dev/icons?i=python,javascript,typescript'/>
+<img src='https://skillicons.dev/icons?i=python,javascript,typescript,java'/>
 </details>
 <details>
 
@@ -45,7 +45,7 @@
 <details>
 
 <summary>BackEnd Development</summary>
-<img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,django'/>
+<img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring'/>
 </details>
 <details>
 
