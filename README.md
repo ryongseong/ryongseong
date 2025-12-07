@@ -14,6 +14,7 @@
 ### 🏆 Award
 - 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
 - SSAFY 코딩집중과정 종합성적 우수상: `2025.05`
+- SSAFY 관통프로젝트 최우수상: `2025.05`
 - SSAFY 특화프로젝트 최우수상: `2025.10` [github](https://github.com/On-Wear-SSAFY-13)
 - SSAFY 자율프로젝트 최우수상: `2025.12` [github](https://github.com/ryongseong/NAMUH)
 
