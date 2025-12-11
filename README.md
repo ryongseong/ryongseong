@@ -19,7 +19,7 @@
 - SSAFY 자율프로젝트 최우수상: `2025.12` [github](https://github.com/ryongseong/NAMUH)
 
 ### 📜 Paper
-- [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine(Jin-Woo Ryu,  Chan-Young Kwon,  Jea-Seong Park,  Seong-Ryong Lim,  Hye-Li Jeon,  Hui-Jun Kim, and Sung-Hee Kim)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
+- [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
    - 동의신경정신과학회지, 2저자
 
 ### 🏅 Certifications
