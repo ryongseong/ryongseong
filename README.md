@@ -11,13 +11,6 @@
      - (백엔드 개발 및 데이터 수집/관리): `2024.09 ~ 2024.12` 
 - **삼성청년SW·AI아카데미(SSAFY)** 13기: `2025.01 ~ 2025.12`
 
-### 🏆 Award
-- 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
-- SSAFY 코딩집중과정 종합성적 우수상: `2025.05`
-- SSAFY 관통프로젝트 최우수상: `2025.05`
-- SSAFY 특화프로젝트 우수상: `2025.10` [github](https://github.com/On-Wear-SSAFY-13)
-- SSAFY 자율프로젝트 우수상: `2025.12` [github](https://github.com/ryongseong/NAMUH)
-
 ### 📜 Paper
 - [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
    - 동의신경정신과학회지, 2저자
@@ -30,6 +23,13 @@
 - [Notion](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95) 
 - [Velog](https://velog.io/@ryongseong/posts)
 - [Next.js 활용 포트폴리오](https://ryongseong.im) (수정중)
+
+### 🏆 Award
+- 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
+- SSAFY 코딩집중과정 종합성적 우수상: `2025.05`
+- SSAFY 관통프로젝트 최우수상: `2025.05`
+- SSAFY 특화프로젝트 우수상: `2025.10` [github](https://github.com/On-Wear-SSAFY-13)
+- SSAFY 자율프로젝트 우수상: `2025.12` [github](https://github.com/ryongseong/NAMUH)
 
 <br />
 <h3>🛠️ Skills</h3>
