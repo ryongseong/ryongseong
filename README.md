@@ -31,7 +31,6 @@
 - SSAFY 특화프로젝트 우수상: `2025.09` [github](https://github.com/On-Wear-SSAFY-13)
 - SSAFY 자율프로젝트 우수상: `2025.11` [github](https://github.com/ryongseong/NAMUH)
 
-<br />
 <h3>🛠️ Skills</h3>
 <details>
 <summary>Programming languages</summary>
