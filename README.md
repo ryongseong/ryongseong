@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seong-Ryong Lim 👋</h1>
+<h1 align="center">Hi, I'm SeongRyong Lim 👋</h1>
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=for-the-badge" alt="ryongseong" />
 </div>
