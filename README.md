@@ -75,11 +75,23 @@
 <br />
 
 <h3>📜 Stats</h3>
-<div align='center'>
+<table>
+  <tbody>
+    <tr>
+    <td align="center">
+      <img src="github-metrics-left.svg" alt="" />
+    </td>
+    <td align="center">
+      <img src="github-metrics-right.svg" alt=""/>
+    </td>
+    </tr>
+  </tbody>
+</table>
+<!-- <div align='center'>
    <a href="https://github.com/ryongseong/github-stats">
       <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/overview.svg"/><img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
    </a>
-</div>
+</div> -->
 <br />
 <h3>💬 Contact</h3>
 <div>
