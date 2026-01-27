@@ -26,10 +26,11 @@
 
 ### 🏆 Award
 - 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
-- SSAFY 코딩집중과정 종합성적 우수상: `2025.05`
-- SSAFY 관통프로젝트 최우수상: `2025.05`
-- SSAFY 특화프로젝트 우수상: `2025.09` [github](https://github.com/On-Wear-SSAFY-13)
-- SSAFY 자율프로젝트 우수상: `2025.11` [github](https://github.com/ryongseong/NAMUH)
+- 삼성청년SW·AI아카데미 코딩집중과정 종합성적 우수상: `2025.05`
+- 삼성청년SW·AI아카데미 관통프로젝트 최우수상: `2025.05`
+- 삼성청년SW·AI아카데미 특화프로젝트 우수상: `2025.09` [github](https://github.com/On-Wear-SSAFY-13)
+- 삼성청년SW·AI아카데미 자율프로젝트 우수상: `2025.11` [github](https://github.com/ryongseong/NAMUH)
+- 삼성청년SW·AI아카데미 전시발표회 입상: `2025.12` [youtube](youtube.com/watch?v=0qWuWFzB6g4&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=MjM4NTE)
 
 <h3>🛠️ Skills</h3>
 <details>
