@@ -23,6 +23,8 @@
 - [Notion](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95) 
 - [Velog](https://velog.io/@ryongseong/posts)
 - [Next.js 활용 포트폴리오](https://ryongseong.im) (수정중)
+- [PDF](https://github.com/user-attachments/files/24875145/_.pdf)
+
 
 ### 🏆 Award
 - 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
