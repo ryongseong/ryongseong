@@ -3,11 +3,14 @@
    <img src="https://komarev.com/ghpvc/?username=ryongseong&label=Welcome&color=0e75b6&style=for-the-badge" alt="ryongseong" />
 </div>
 
-### 🏃‍♂️ Experience
-- **창업동아리 인사이트**: `2023.03 ~ 2024.08`
-   - 파이썬 스터디장, 코테 스터디 진행
-- **동의대학교 인공지능그랜드ICT연구센터 학부연구생**: `2023.07 ~ 2024.08`
-- **삼성청년SW·AI아카데미(SSAFY)** 13기: `2025.01 ~ 2025.12`
+### 🏃‍♂️ Education & Experience
+|활동명|기간|비고|
+|:---:|:---:|:---:|
+|삼성청년SW·AI아카데미(SSAFY) 13기|2025.01 ~ 2025.12|삼성 SW 역량 테스트 A 등급 취득 <br />Certificate 등급: 우수|
+|동의대학교 인공지능그랜드ICT연구센터 <br/> 학부연구생|2023.07 ~ 2024.08|**창의자율과제**: AI 기반 맞춤형 학습 문제 생성 및 시험 관리 시스템 개발<br/>**기업 과제**: 데이터 수집 및 전처리 진행<br />**한의대 과제**: AI 기반 한의학 시뮬레이션 교육 플랫폼 개발|
+|창업동아리 인사이트|2023.03 ~ 2024.08|파이썬 스터디장, 코테 스터디 진행|
+|동의대학교 산업ICT기술공학과 졸업|2019.03 ~ 2025.02|[전체 평점: 3.99 / 4.5] <br/> [전공 평점: 4.25 / 4.5]|
+|지산고등학교 졸업|2016.03 ~ 2019.02|-|
 
 ### 📜 Paper
 - [Development and Application of a ChatGPT-Based Simulation Training Platform for Korean Medicine](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158887)
@@ -15,7 +18,7 @@
  
 ### 💼 Career
    | 기업명 | 부서 | 기간 | 직무/직책 |
-   |---|---|---|---|
+   |:---:|:---:|:---:|:---:|
    |크리스틴컴퍼니|DX 파트|2024.09 ~ 2024.12|인턴 / 백엔드 개발 및 데이터 수집, 관리|
 
 ### 🏅 Certifications
@@ -30,7 +33,7 @@
 
 
 ### 🏆 Award
-- 동의대학교 인공지능그랜드ICT 연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
+- 동의대학교 인공지능그랜드ICT연구센터 2024 창의자율과제 장려상: `2024.10` [github](https://github.com/ryongseong/DxLab)
 - 삼성청년SW·AI아카데미 코딩집중과정 종합성적 우수상: `2025.05`
 - 삼성청년SW·AI아카데미 관통프로젝트 최우수상: `2025.05`
 - 삼성청년SW·AI아카데미 특화프로젝트 우수상: `2025.09` [github](https://github.com/On-Wear-SSAFY-13)
