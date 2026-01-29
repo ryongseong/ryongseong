@@ -38,7 +38,7 @@
 - 삼성청년SW·AI아카데미 관통프로젝트 최우수상: `2025.05`
 - 삼성청년SW·AI아카데미 특화프로젝트 우수상: `2025.09` [github](https://github.com/On-Wear-SSAFY-13)
 - 삼성청년SW·AI아카데미 자율프로젝트 우수상: `2025.11` [github](https://github.com/ryongseong/NAMUH)
-- 삼성청년SW·AI아카데미 전시발표회 입상: `2025.12` [youtube](youtube.com/watch?v=0qWuWFzB6g4&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=MjM4NTE)
+- 삼성청년SW·AI아카데미 전시발표회 입상: `2025.12` [youtube](https://www.youtube.com/watch?v=0qWuWFzB6g4)
 
 <h3>🛠️ Skills</h3>
 <details>
