@@ -88,6 +88,12 @@
    <a href="https://github.com/ryongseong/github-stats">
       <img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/overview.svg"/><img align='center' src="https://github.com/ryongseong/github-stats-transparent/blob/output/generated/languages.svg"/>
    </a>
+   <a href="https://solved.ac/xmssnsk">
+      <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xmssnsk"/>
+   </a>
+   <a href="https://solved.ac/ryongseong_dev">
+      <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryongseong_dev"/>
+   </a>
 </div>
 <br />
 <h3>💬 Contact</h3>
