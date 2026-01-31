@@ -22,7 +22,7 @@
 - [Notion](https://nebulous-visor-f4e.notion.site/1f44db7ba7ba8057a80fc07ec3b42c95) 
 - [Velog](https://velog.io/@ryongseong/posts)
 - [Next.js 활용 포트폴리오](https://ryongseong.im) (수정중)
-- [PDF](https://github.com/user-attachments/files/24875145/_.pdf)
+- [PDF](https://github.com/ryongseong/ryongseong/raw/main/%EC%9E%84%EC%84%B1%EB%A3%A1_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ### 🏃‍♂️ Education & Experience
 |활동명|기간|비고|
