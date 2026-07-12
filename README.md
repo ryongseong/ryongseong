@@ -1,9 +1,5 @@
-Dig into the essence of the problem and present a 'better path'.
-It does not simply overcome the bottlenecks and inefficiencies encountered in the development process.
-Enjoy the process of analyzing and improving root causes to reduce latency by 0.1 seconds and streamline system resources.
+Developers who dig into the essence of a problem and come up with better solutions. Beyond simply solving bottlenecks and inefficiencies in the development process, we improve systems by analyzing underlying causes. They enjoy the process of reducing latency, optimizing resources, and solving technical challenges.
 
-Expand the potential of your business with the depth of technology.
-It's not just about implementing the functionality, it's constantly asking, "Why do you need this technology?"
-In securing the stability of the backend system and optimizing and applying the latest AI technologies to services, you feel the joy of development.
+In addition, it aims to expand the potential of the business by adding depth of technology. Beyond simple functional implementation, we constantly wonder "Why do we need this technology?" Based on a stable backend system, we optimize the latest AI technologies for our services, and find the true joy of development as technology creates real business value.
 
 [portfolio](./임성룡_포트폴리오.pdf)
